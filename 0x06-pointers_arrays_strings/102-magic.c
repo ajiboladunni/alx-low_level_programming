@@ -2,7 +2,6 @@
 
 /**
  * main - check the code
- * Description: magic
  *
  * Return: Always 0
  */
